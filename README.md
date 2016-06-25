@@ -11,9 +11,9 @@ Visite localhost http://localhost:4567 para ver o website
 
 A phpMyAdmin está disponível em http://localhost:4568
 
-Username = usuário (ou root)
+Username = root
 
-Password = passe
+Password = 
 
 Clássico
 
